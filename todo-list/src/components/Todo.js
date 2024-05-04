@@ -1,4 +1,4 @@
-import React from 'react';
+import { useState } from 'react';
 import { RiCloseCircleLine } from 'react-icons/ri'
 import { TiTick } from 'react-icons/ti'
 
